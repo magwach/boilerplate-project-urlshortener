@@ -1,3 +1,29 @@
-# URL Shortener Microservice
+**Overview**
 
-This is the boilerplate code for the URL Shortener Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice.
+A microservice to shorten URLs for easier sharing.
+
+**Features**
+
+    • Generate short URLs for given links
+    • Redirect to the original URL using the short URL
+    • Validate URL formats
+
+**Setup Instructions**
+
+_Clone the repository:_
+
+    git clone https://github.com/magwach/boilerplate-project-urlshortener.git  
+    
+_Install dependencies:_
+
+    npm install  
+    
+_Start the server:_
+
+    npm start  
+  
+**Technologies**
+
+    • Node.js
+    • Express
+    • MongoDB
